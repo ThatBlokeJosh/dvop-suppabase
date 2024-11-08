@@ -1,0 +1,36 @@
+{
+  "english": {
+    "quotes": {
+      "title": "Hi, I'm Josh and I..."
+    },
+    "footer": {
+      "start_text": "More about me in my",
+      "half_text": "or on my",
+      "cv": {
+        "link": "/cv-en.pdf",
+        "anchor_text": "CV"
+      },
+      "github": {
+        "text": "GitHub",
+        "link": "https://github.com/ThatBlokeJosh"
+      }
+    } 
+  },
+  "czech": {
+    "quotes": {
+      "title": "Ahoj, já jsem Josh a..."
+    },
+    "footer": {
+      "start_text": "Víc o mně v mém",
+      "half_text": "nebo na mém",
+      "cv": {
+        "link": "/cv-cz.pdf",
+        "anchor_text": "CV"
+      },
+      "github": {
+        "text": "GitHubu",
+        "link": "https://github.com/ThatBlokeJosh"
+      }
+    } 
+  }
+}

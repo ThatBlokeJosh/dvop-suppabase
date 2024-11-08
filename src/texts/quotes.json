@@ -1,0 +1,56 @@
+{
+  "english": {
+    "quotes": [
+      {"message": "am a software engineer"},
+      {"message": "am fluent in Czech and English"},
+      {"message": "am an experienced full-stack web developer"},
+      {"message": "am a person with a passion for tech"},
+      {"message": "am interested in cyber security"},
+      {"message": "am an avid reader"},
+      {"message": "am the person for the job"},
+      {"message": "am hard-working"},
+      {"message": "am creative"},
+      {"message": "love open-source"},
+      {"message": "use modern technology"},
+      {"message": "daily drive linux"},
+      {"message": "love writting code"},
+      {"message": "strive to make efficient solutions"},
+      {"message": "will solve your problems"},
+      {"message": "have fresh and original ideas"},
+      {"message": "like video games"},
+      {"message": "love learning new things"},
+      {"message": "still can't center a div"},
+      {"message": "use arch btw"},
+      {"message": "test in prod"},
+      {"message": "am super-califragilistic-expialidocious"},
+      {"message": "like minimalist design"}
+    ]
+  },
+  "czech": {
+    "quotes": [
+      {"message": "jsem vývojář"},
+      {"message": "mluvím plynule anglicky a česky"},
+      {"message": "jsem zkušený full-stackový webový vývojář"},
+      {"message": "mám vášeň pro technologii"},
+      {"message": "mám zájem o kybernetickou bezpečnost"},
+      {"message": "rád čtu"},
+      {"message": "jsem spravný člověk pro váš úkol"},
+      {"message": "jsem pracovitý"},
+      {"message": "jsem kreativní"},
+      {"message": "miluju open-source"},
+      {"message": "používám moderní technologii"},
+      {"message": "používám linux každý den"},
+      {"message": "miluju programování"},
+      {"message": "snažím se tvořit efektivní řešení"},
+      {"message": "vyřeším vaše problémy"},
+      {"message": "mám svěží a originální nápady"},
+      {"message": "mám rád video hry"},
+      {"message": "rád se učím nové věci"},
+      {"message": "pořád neumím vycentrovat div"},
+      {"message": "používám arch mimochodem"},
+      {"message": "testuju v produ"},
+      {"message": "jsem supercalifragilistic-expialidocious"},
+      {"message": "mám rád minimalistický design"}
+    ]
+  }
+}

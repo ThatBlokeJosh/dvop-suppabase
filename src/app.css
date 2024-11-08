@@ -1,0 +1,20 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+* {
+  font-family: "DM Serif Display", serif;
+  caret-color: transparent; 
+}
+
+p, a, button {
+  font-family: "EB Garamond", serif;
+}
+
+h1 {
+  font-family: "DM Serif Display", serif;
+}
+
+body {
+  overflow: hidden;
+}
